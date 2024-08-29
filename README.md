@@ -1,3 +1,6 @@
 # bank-project
-##### Spring IoC container + Pure Java
+##### Servlet API
+##### JDBC
+##### MySQL
+##### Spring IoC container
 ##### DAO and Repository Pattern
